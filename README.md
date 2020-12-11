@@ -1,1 +1,3 @@
-# elections2020
+# Elections 2020
+
+## About the Project
