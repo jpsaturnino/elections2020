@@ -1,10 +1,6 @@
 # Elections 2020
 
-## About the Project
-
-"Develop an application to control the registration of candidates for the 2020 elections"
-
-## Made With
+## Technologies
 
 - HTML5, CSS, React -> frontend
 - NodeJS, MongoDB -> backend
